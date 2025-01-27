@@ -43,6 +43,8 @@ class MainActivity : AppCompatActivity() {
                     else -> bottomNavigationView.visibility = View.GONE
                 }
             }
+
+        println("Second Commit")
     }
 
     override fun onNewIntent(intent: Intent) {
