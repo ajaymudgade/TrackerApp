@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
             }
 
         println("Second Commit")
+        jkljgj
     }
 
     override fun onNewIntent(intent: Intent) {
